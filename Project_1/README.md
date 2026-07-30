@@ -24,7 +24,7 @@ Associate a routing table to a subnet in order to allow internet access to the E
 
 **IP Access Control**
 
-Create ingress and egress rules to allow SSH and HTTP access to the EC2 from specific IP addreses
+Create ingress and egress rules to allow SSH and HTTP access to the EC2 from specific IP addresses
 
 
 **IAM Users & Groups**
